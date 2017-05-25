@@ -48,7 +48,7 @@
 - [croppie](https://github.com/foliotek/croppie)
 
 ## Form
-- [PureMask](https://github.com/romulobrasil/PureMask.js)
+- [puremask](https://github.com/romulobrasil/PureMask.js)
 
 
 For CDN we recommend cdnjs : https://cdnjs.com/
