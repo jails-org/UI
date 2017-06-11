@@ -21,6 +21,7 @@
 - [scrollreveal](https://github.com/jlmakes/scrollreveal)
 - [scrollmagic](https://github.com/janpaepke/ScrollMagic)
 - [tinyscrollbar](https://github.com/wieringen/tinyscrollbar)
+- [scrollmonitor](https://github.com/stutrek/scrollMonitor)
 
 ## Carousel
 - [flickity](https://github.com/metafizzy/flickity)
