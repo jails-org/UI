@@ -28,6 +28,7 @@
 - [peppermint](https://github.com/wilddeer/Peppermint)
 - [slick](https://github.com/kenwheeler/slick)
 - [swiper](https://github.com/nolimits4web/swiper)
+- [tremulajs](https://github.com/garris/TremulaJS)
 
 ## Slider
 - [rangeslider](https://github.com/andreruffert/rangeslider.js)
