@@ -1,6 +1,6 @@
 # UI
 
-[DragNDrop](#dragndrop) | [Maps](#maps) | [Data Driven](#datadriven) | [File Upload](#fileupload) | [Scrolling](#scrolling) | [Carousel](#carousel) | [Slider](#slider) | [Modal](#modal) | [Animation](#animation) | [Crop](#crop) | [Form](#form) | [Grid](#grid) | [Date](#date)
+[DragNDrop](#dragndrop) | [Maps](#maps) | [Data Driven](#datadriven) | [File Upload](#fileupload) | [Scrolling](#scrolling) | [Carousel](#carousel) | [Slider](#slider) | [Modal](#modal) | [Animation](#animation) | [Crop](#crop) | [Form](#form) | [Grid](#grid) | [Page Transition](#pagetransition)
 
 ## DragNDrop
 - [dragula](https://github.com/bevacqua/dragula)
@@ -57,7 +57,7 @@
 - [packery](https://github.com/metafizzy/packery)
 - [isotope](https://github.com/metafizzy/isotope)
 
-## Date
-- [moment.js](https://github.com/moment/moment)
+## Page Transition
+- [barbajs](http://barbajs.org)
 
 For CDN we recommend cdnjs : https://cdnjs.com/
