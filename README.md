@@ -1,6 +1,6 @@
 # UI
 
-[DragNDrop](#dragndrop) | [Maps](#maps) | [Data Driven](#datadriven) | [File Upload](#fileupload) | [Scrolling](#scrolling) | [Carousel](#carousel) | [Slider](#slider) | [Modal](#modal) | [Animation](#animation) | [Crop](#crop) | [Form](#form) | [Grid](#grid) | [Page Transition](#pagetransition)
+[DragNDrop](#dragndrop) | [Maps](#maps) | [Data Driven](#data-driven) | [File Upload](#file-upload) | [Scrolling](#scrolling) | [Carousel](#carousel) | [Slider](#slider) | [Modal](#modal) | [Animation](#animation) | [Crop](#crop) | [Form](#form) | [Grid](#grid) | [Page Transition](#page-transition)
 
 ## DragNDrop
 - [dragula](https://github.com/bevacqua/dragula)
