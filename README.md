@@ -4,6 +4,7 @@
 
 ## DragNDrop
 - [dragula](https://github.com/bevacqua/dragula)
+- [draggable](https://github.com/Shopify/draggable)
 
 ## Maps
 - [gmaps](https://github.com/hpneo/gmaps)
