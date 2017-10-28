@@ -61,5 +61,6 @@
 
 ## Page Transition
 - [barbajs](http://barbajs.org)
+- [codedropsPageTransition](https://github.com/codrops/PageTransitions)
 
 For CDN we recommend cdnjs : https://cdnjs.com/
