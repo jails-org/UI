@@ -24,6 +24,7 @@
 - [scrollmagic](https://github.com/janpaepke/ScrollMagic)
 - [tinyscrollbar](https://github.com/wieringen/tinyscrollbar)
 - [scrollmonitor](https://github.com/stutrek/scrollMonitor)
+- [scrollama](https://russellgoldenberg.github.io/scrollama/basic)
 
 ## Carousel
 - [flickity](https://github.com/metafizzy/flickity)
