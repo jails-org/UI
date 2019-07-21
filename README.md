@@ -17,6 +17,7 @@
 
 ## File Upload
 - [dropzone](https://github.com/enyo/dropzone)
+- [filepond] (https://pqina.nl/filepond/#examples)
 
 ## Scrolling
 - [fullpage](https://github.com/alvarotrigo/fullPage.js)
